@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.ibm.com/IBM-Q-Software/6-qubit-clifford-circuit-optimizer">
-    <img src="docs/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="docs/images/logo.png" alt="Logo" width="416" height="91">
   </a>
 
   <h3 align="center">6-Qubit Clifford Circuit Compiler</h3>
